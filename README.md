@@ -2,6 +2,16 @@
 
 Due to copyrights and a signed non-disclosure agreement, the __models__, __data__, and further information about the data have been removed from the repository. 
 Further information about the approaches and theory can be found in the corresponding directory's `README.md`.
+
+- [Introduction](#-introduction)
+- [Dataset Description](#-raw-data-description)
+- [Solution & Evaluation](#-solution--evaluation)
+  - [Data Preprocessing](#-data-preprocessing)
+  - [Algorithms](#-algorithms)
+  - [Evaluation](#-evaluation)
+- [Generating Synthetic Data](#generating-synthetic-data)
+- [Project Structure](#-project-structure)
+
 #
 ## 🕵️ Introduction
 
